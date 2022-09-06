@@ -30,7 +30,7 @@
             params: { manga: mangalink, read_manga: data.finalChap },
           }"
         >
-          <button>Chap mới nhất</button>
+          <button>Chap mới nhất1</button>
         </router-link>
       </div>
     </div>
